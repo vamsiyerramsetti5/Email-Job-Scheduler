@@ -1,4 +1,4 @@
-# ReachInbox Hiring Assignment – Full-Stack Email Job Scheduler
+# ReachInbox Email Job Scheduler
 
 [![Project Status: 100% Completed](https://img.shields.io/badge/Project_Status-100%25_Completed-00B050?style=for-the-badge&logo=checkmarx)](https://github.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -26,7 +26,7 @@
 
 **Completion Status:** `100% Fully Implemented & Production-Ready`
 
-All requirements from the ReachInbox Full-Stack Email Job Scheduler hiring assignment have been built, integrated, and verified:
+All requirements from the ReachInbox Full-Stack Email Job Scheduler have been built, integrated, and verified:
 
 | Requirement Category | Implementation Details | Status |
 | :--- | :--- | :---: |
